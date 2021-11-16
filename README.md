@@ -1,4 +1,7 @@
 # hard-rock-solution
+### Lyrics finding website using the API
+Live demo: https://siamislam1603.github.io/Song-Lyrics-API/
+
 ### Search Song
 api link: https://api.lyrics.ovh/suggest/:searchText
 
